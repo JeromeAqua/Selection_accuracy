@@ -1,0 +1,10 @@
+## All null models
+setwd("/home/jpinti/Importance_accuracy/Null")
+source("Brownian_100.R")
+print("Brownian done")
+source("Levy_100.R")
+print("Levy done")
+source("CRWemp_100.R")
+print("CRW done")
+source("JD_100.R")
+print("all done!")
